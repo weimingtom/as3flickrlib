@@ -1,0 +1,10 @@
+#summary Welcome to the ActionScript 3 Flickr Library
+#labels Featured
+
+= Introduction =
+
+The Flickr library is an ActionScript 3.0 API for the online photo sharing application, Flickr. It provides access to the entire Flickr API.
+
+
+= Details =
+You can download the .zip file, check the source code out of SVN, join the mailing list.  Members of the project can also edit the wiki, email one of the project admins to become a member.
