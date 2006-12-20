@@ -7,4 +7,4 @@ The Flickr library is an ActionScript 3.0 API for the online photo sharing appli
 
 
 = Details =
-You can download the .zip file, check the source code out of SVN, join the mailing list.  Members of the project can also edit the wiki, email one of the project admins to become a member.
+You can [http://code.google.com/p/as3flickrlib/downloads/list download the .zip file], [http://code.google.com/p/as3flickrlib/source check the source code out of SVN], [http://groups.google.com/group/as3flickrlib join the mailing list].  Members of the project can also edit the wiki, email one of the project admins to become a member.
