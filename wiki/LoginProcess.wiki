@@ -35,7 +35,7 @@ The following sample code snippet demonstrate the login process
 					// Have the service construct a login url for us with the
 					// authentication frob, and request the user that we'd like
 					// to have DELETE access to their data
-					frob = String( event.data );
+					frob = String( event.data.frob );
 					var auth_url:String = service.getLoginURL( frob, AuthPerm.DELETE );
 					
 					// Open a new browser window to authenticate the user
