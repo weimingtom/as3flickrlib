@@ -9,5 +9,7 @@ The project has the following dependencies:
 
 
 = Using the Flickr Library in your project =
+== Linking in the SWC ==
+== Linking in the ActionScript Source ==
 
 = Building the Flickr Library SWC =
