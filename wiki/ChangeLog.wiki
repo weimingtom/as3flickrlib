@@ -1,0 +1,10 @@
+#summary A summary of changes between each release
+#labels Featured
+
+= .86 =
+
+ * Changed the Flickr endpoint reported as issue [http://code.google.com/p/as3flickrlib/issues/detail?id=7 7], [http://code.google.com/p/as3flickrlib/issues/detail?id=9 9], and [http://code.google.com/p/as3flickrlib/issues/detail?id=10 10]
+
+= .85=
+
+ * Original release from Adobe Labs
