@@ -7,6 +7,11 @@ Some methods require a user to be authenticated before being invoked.  For examp
 
 The following sample code snippet demonstrate the login process
 
+=Flex Based Authentication=
+
+The library contains a Flex control that provides a UI and code for authenticating an application with Flickr. You can find a quick overview of the control at:
+[http://www.mikechambers.com/blog/2008/08/12/flex-based-flickr-api-authorization-control/]
+
 
 = Sample code for authenticating a user =
 {{{
