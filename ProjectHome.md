@@ -1,0 +1,1 @@
+The Flickr library is an ActionScript 3.0 API for the online photo sharing application, Flickr. It provides access to the entire Flickr API.
